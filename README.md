@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Janani Mayadunna <br> IT21026898
+### <center>Hi there 👋 I'm Janani Mayadunna <br> IT21026898 </center>
 
 <!--
 **IT21026898/IT21026898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
