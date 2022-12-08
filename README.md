@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Janani Mayadunna <br> IT21026898</h1>
-<h3 align="center">Undergraduate at SLIIT</h3>
+<h3 align="center">Software Engineering Undergraduate at SLIIT</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21026898&label=Profile%20views&color=0e75b6&style=flat" alt="it21026898" /> </p>
